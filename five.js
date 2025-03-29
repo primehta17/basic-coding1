@@ -1,3 +1,4 @@
+//distinct number
 let arr=[10,15,10,40];
 
 function disarr(arr){
